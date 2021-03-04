@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+uhh I don't really have a website... go visit [skribble](https://skribbl.io/) instead and draw a masterpiece :>
