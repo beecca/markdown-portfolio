@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+so now not only can I code in **python** I can also code in _github_ and honestly they could not be more **_different_** - github is definitely more user-friendly with code looking much more like text (rather than another language) and it feels a lot more fun to get to grips with, even if it seems like there are _billions_ of things to learn :b
